@@ -28,17 +28,17 @@ brew services list
 
 下面是我本机的运行截图
 
-![](doc/1.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/SpringCacheDemo/master/doc/1.png)
 
 ## 创建Spring项目
 
 我这边为了简单方便，直接使用了Spring Boot，直接用IntelJ Idea，需要添加`Redis`、`Cache`和`Lombok`库。
 
-![](doc/2.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/SpringCacheDemo/master/doc/2.png)
 
-![](doc/3.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/SpringCacheDemo/master/doc/3.png)
 
-![](doc/4.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/SpringCacheDemo/master/doc/4.png)
 
 ## 集成Redis
 
